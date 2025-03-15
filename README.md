@@ -9,4 +9,4 @@ The dashboard provides a comprehensive analysis of the Super Store's sales perfo
 
 --Actionable insights and Recommendations : End goal is to share valuable insights and actionable information that can drive strategic decision making and support the supermarket's goal for growth , efficiency and customer satisfaction. 
 
-To view the Dashboard click https://github.com/gupta-25/Superstore-Sales-Dashboard/upload/main
+To view the Dashboard click https://github.com/gupta-25/Superstore-Sales-Dashboard/blob/main/Superstore%20Dashboard.pdf
